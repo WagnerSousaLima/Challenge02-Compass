@@ -1,5 +1,6 @@
 <h1 align="center"> PlantShop </h1>
 
+
 ![PlantShop](/public/images/desafioII.gif)
 
 Bem-vindo ao repositório do PlantShop, um projeto desenvolvido como parte do Desafio do Programa de Estágio Compass UOL. Neste desafio, criamos uma página de E-Commerce de plantas utilizando React. 
